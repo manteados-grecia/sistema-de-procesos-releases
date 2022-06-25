@@ -1,9 +1,9 @@
 {
-  "version": "v0.0.2",
+  "version": "v0.0.3",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc3Mwc3dqak9IVkhSd01vaDBRdTVyc0FKVUdHY3ZacFA2UDM4Y01uNU9qNmtIendkeFk1WTgwSDVjVWJac2xtNEZuNzJuTG5VZ0krbXJMcGIyclZ1dHNoektxOTB6cWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU1OTI1OTk4CWZpbGU6QzpcRGV2XENvbW1lcmNpYWxcbWFudGVhZG9zLWdyZWNpYVxzaXN0ZW1hLXByb2Nlc29zXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL01hbnRlYWRvcyBHcmVjaWFfMC4wLjJfeDY0X2VuLVVTLm1zaS56aXAKYW4vb3JmaEszT2N0MzNzblZDdUFyMVE3QjE3MWdNMHVyendlUFZaM3RibkczYjR1SGFnWURlam1xNGNBT05kdlVqU1I3NXFqbXMrcEZ5VFFDY04yQmc9PQo=",
-      "url": "https://github.com/manteados-grecia/sistema-de-procesos-releases/releases/download/v0.0.2/Manteados.Grecia_0.0.2_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUc3Mwc3dqak9IVkh2TkZCUXV5VVF3ekJPUHFFTkxmT3VMR1pnMUpBTGhvMSsvaUxUaC8wb0pFbG5tdVdJZUcyVmh1ZDBnYXlCRnUxQ2dUNktNVFpvcnRnOHdlOGZlOUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjU2MTc1MDM2CWZpbGU6QzpcRGV2XENvbW1lcmNpYWxcbWFudGVhZG9zLWdyZWNpYVxzaXN0ZW1hLXByb2Nlc29zXHNyYy10YXVyaVx0YXJnZXRccmVsZWFzZVxidW5kbGUvbXNpL01hbnRlYWRvcyBHcmVjaWFfMC4wLjNfeDY0X2VuLVVTLm1zaS56aXAKSlR5WHdmVEZJUm9CY2gybUZTSXJmK2pxOUJwZTd6aHI5NHFXRjluV1YxQ3Yxdk9vYmpIbXVWSnFGcWVTY2Z0UUpBVjgzQXVTbnFldUlVc1hBS1V0RFE9PQo=",
+      "url": "https://github.com/manteados-grecia/sistema-de-procesos/releases/download/v0.0.3/manteados-grecia_0.0.3_x64_en-US.msi.zip"
     }
   }
 }
